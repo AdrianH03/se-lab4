@@ -1,0 +1,4 @@
+# Tüzelés mindkét tárolóval, egyik meghibásodik
+# Előfeltétel: 10 torpedó mindkét tárolóban, az első tároló hibaaránya 0, másodiké 1.0
+GT4500,10,0,10,1
+TORPEDO,ALL

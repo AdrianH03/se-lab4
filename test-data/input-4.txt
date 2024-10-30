@@ -1,0 +1,4 @@
+# Torpedók elfogytak az első tárolóból
+# Előfeltétel: 0 torpedó az első tárolóban, 10 a másodikban, hibaráta 0
+GT4500,0,0,10,0
+TORPEDO,SINGLE

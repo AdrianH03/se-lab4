@@ -1,0 +1,2 @@
+SUCCESS # -> Sikeres hajó inicializálása
+SUCCESS # -> Sikeres tüzelés

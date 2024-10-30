@@ -1,0 +1,4 @@
+# Váltakozó tüzelés üres első tárolóval
+# Előfeltétel: Az első tároló üres, a másodikban 1 torpedó
+GT4500,0,0,1,0
+TORPEDO,SINGLE
