@@ -1,0 +1,2 @@
+SUCCESS # -> Hajó sikeres inicializálása
+FAIL # -> Nem sikerült a tüzelés

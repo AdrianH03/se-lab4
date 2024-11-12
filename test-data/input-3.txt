@@ -1,0 +1,4 @@
+# Tüzelés hibás tárolóval
+# Előfeltétel: 10 torpedó az első tárolóban, hibaráta 1 (mindig meghibásodik)
+GT4500,10,1,10,0
+TORPEDO,SINGLE

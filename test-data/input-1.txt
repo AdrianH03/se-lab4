@@ -1,0 +1,4 @@
+# Hibamentes tüzelés egyetlen torpedóval
+# Előfeltétel: 1 torpedó az első tárolóban, 10 a másodikban, hibaráta 0
+GT4500,1,0,10,0
+TORPEDO,SINGLE

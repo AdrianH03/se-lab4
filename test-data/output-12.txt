@@ -1,0 +1,3 @@
+SUCCESS # -> Sikeres GT4500 létrehozása
+SUCCESS # -> Sikeres első tüzelés
+SUCCESS # -> Sikeres második tüzelés

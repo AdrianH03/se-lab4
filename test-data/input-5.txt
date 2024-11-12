@@ -1,0 +1,4 @@
+# Torpedók elfogytak mindkét tárolóból
+# Előfeltétel: 0 torpedó mindkét tárolóban
+GT4500,0,0,0,0
+TORPEDO,SINGLE

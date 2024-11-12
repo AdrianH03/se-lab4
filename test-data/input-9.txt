@@ -1,0 +1,4 @@
+# Hibás tárolóval tüzelés minden torpedóval
+# 10 torpedó mindkét tárolóban, mindkettő hibaráta 1.0 (mindig meghibásodik)
+GT4500,10,1,10,1
+TORPEDO,ALL

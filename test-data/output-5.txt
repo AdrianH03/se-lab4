@@ -1,0 +1,2 @@
+SUCCESS # -> Sikerült a hajó inicializálása
+FAIL # -> Nem sikerült a tüzelés

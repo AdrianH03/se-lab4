@@ -1,0 +1,4 @@
+# Mindkét tárolóból egyszerre tüzelés
+# Előfeltétel: 10 torpedó mindkét tárolóban, hibaráta 0
+GT4500,10,0,10,0
+TORPEDO,ALL
