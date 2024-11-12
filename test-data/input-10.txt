@@ -1,0 +1,5 @@
+# Első tüzelés az első tárolóból, majd a másodikból (váltakozó tüzelés)
+# 5 torpedó mindkét tárolóban, hibaráta 0
+GT4500,5,0,5,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

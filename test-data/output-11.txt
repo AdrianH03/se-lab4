@@ -1,0 +1,3 @@
+SUCCESS # -> Sikeres GT4500 létrehozása
+SUCCESS # -> Sikeres tüzelés
+SUCCESS # -> Sikeres tüzelés
